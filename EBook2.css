@@ -1,0 +1,240 @@
+.background-ellips-icon {
+  position: absolute;
+  top: 0;
+  left: 596px;
+  width: 1111px;
+  height: 1242px;
+}
+.rectangle-div,
+.square-box-inner {
+  position: absolute;
+  border-radius: var(--br-31xl);
+  box-shadow: 20px 20px 137px 10px rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(461px);
+  width: 367px;
+}
+.square-box-inner {
+  top: 33px;
+  left: 39px;
+  background: linear-gradient(
+      rgba(255, 255, 255, 0.07),
+      rgba(255, 255, 255, 0.07)
+    ),
+    linear-gradient(
+      180deg,
+      rgba(255, 255, 255, 0.3),
+      rgba(255, 255, 255, 0.58) 49.79%,
+      rgba(255, 255, 255, 0.7)
+    );
+  height: 514px;
+}
+.rectangle-div {
+  top: 60.53px;
+  left: 0;
+  background: linear-gradient(
+      rgba(255, 255, 255, 0.07),
+      rgba(255, 255, 255, 0.07)
+    ),
+    linear-gradient(
+      180deg,
+      rgba(52, 152, 219, 0.7),
+      rgba(255, 255, 255, 0.58) 49.79%,
+      rgba(155, 89, 182, 0.7)
+    );
+  height: 526.01px;
+  transform: rotate(-9.49deg);
+  transform-origin: 0 0;
+}
+.course-books {
+  position: relative;
+  letter-spacing: 0.04em;
+  line-height: 157%;
+  font-weight: 300;
+  display: inline-block;
+  width: 177px;
+  height: 39px;
+  flex-shrink: 0;
+  text-shadow: 0 5px 3px rgba(0, 0, 0, 0.25);
+}
+.back-arrow-icon1 {
+  position: relative;
+  width: 50px;
+  height: 46px;
+  object-fit: cover;
+}
+.books {
+  position: absolute;
+  top: 443px;
+  left: 120px;
+  height: 39px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.square-box1 {
+  position: absolute;
+  top: 222px;
+  left: 880px;
+  width: 448.73px;
+  height: 579.34px;
+}
+.full-background-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-whitesmoke-200);
+  width: 679px;
+  height: 1024px;
+}
+.full-background,
+.full-background-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+}
+.full-background-item {
+  border-radius: var(--br-sm);
+  background-color: var(--color-thistle);
+  box-shadow: 0 10px 34px rgba(0, 0, 0, 0.1);
+  height: 70px;
+}
+.full-background {
+  height: 1024px;
+}
+.e-book-2-child,
+.e-book-2-item {
+  position: absolute;
+  top: 666px;
+  left: 130px;
+  border-radius: var(--br-4xl);
+  background-color: var(--color-white);
+  box-shadow: 8px 8px 14px 7px #8e41b8;
+  width: 223px;
+  height: 245px;
+  mix-blend-mode: multiply;
+}
+.e-book-2-item {
+  left: 421px;
+}
+.read-me1 {
+  position: relative;
+  letter-spacing: 0.11em;
+  line-height: 157%;
+  text-transform: capitalize;
+  font-weight: 200;
+  display: inline-block;
+  width: 80px;
+  height: 22px;
+  flex-shrink: 0;
+}
+.read-me,
+.read-me2 {
+  position: absolute;
+  top: 863px;
+  left: 183px;
+  border-radius: var(--br-6xs);
+  background: linear-gradient(180deg, #8391e2 11.52%, #bf9fd1 87.96%);
+  box-shadow: 8px 8px 15px 2px #9557b6;
+  width: 116px;
+  height: 24px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--font-size-base);
+}
+.read-me2 {
+  top: 864px;
+  left: 474px;
+}
+.sample-books {
+  position: absolute;
+  top: 564px;
+  left: 130px;
+  letter-spacing: 0.04em;
+  line-height: 157%;
+  display: inline-block;
+  text-align: left;
+  width: 200px;
+  height: 36px;
+  text-shadow: 8px 8px 4px rgba(0, 0, 0, 0.25);
+}
+.e-books,
+.online-engineering-e-books {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: 0.04em;
+  line-height: 157%;
+}
+.e-books {
+  font-weight: 600;
+  text-shadow: 10px 10px 15px rgba(0, 0, 0, 0.1);
+}
+.online-engineering-e-books {
+  font-size: var(--font-size-5xl);
+  font-weight: 300;
+}
+.body-e-books {
+  position: absolute;
+  top: 175px;
+  left: 130px;
+  width: 514px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+}
+.st-year-books,
+.st-year-books1 {
+  position: absolute;
+  height: 15.77%;
+  width: 11.32%;
+  top: 67.97%;
+  right: 77.01%;
+  bottom: 16.26%;
+  left: 11.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.st-year-books1 {
+  width: 12.01%;
+  top: 68.16%;
+  right: 56.39%;
+  bottom: 16.07%;
+  left: 31.6%;
+}
+.cat-lying-on-books {
+  position: absolute;
+  top: 276px;
+  left: 986px;
+  width: 425px;
+  height: 390px;
+  object-fit: cover;
+}
+.library {
+  position: absolute;
+  top: 6px;
+  left: 130px;
+  font-size: var(--font-size-17xl);
+  letter-spacing: 0.04em;
+  line-height: 157%;
+  text-transform: uppercase;
+  font-weight: 500;
+  color: var(--color-gray-200);
+}
+.e-book-2 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

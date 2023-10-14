@@ -1,0 +1,338 @@
+.background-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1706px;
+  height: 1242px;
+}
+
+.square-box-child,
+.square-box-item {
+  position: absolute;
+  top: 33px;
+  left: 39px;
+  border-radius: var(--br-31xl);
+  background: linear-gradient(
+      rgba(255, 255, 255, 0.07),
+      rgba(255, 255, 255, 0.07)
+    ),
+    linear-gradient(
+      180deg,
+      rgba(255, 255, 255, 0.3),
+      rgba(255, 255, 255, 0.58) 49.79%,
+      rgba(255, 255, 255, 0.7)
+    );
+  box-shadow: 20px 20px 137px 10px rgba(0, 0, 0, 0.25);
+  backdrop-filter: blur(461px);
+  width: 367px;
+  height: 514px;
+}
+.square-box-item {
+  top: 60.53px;
+  left: 0;
+  height: 526.01px;
+  transform: rotate(-9.49deg);
+  transform-origin: 0 0;
+}
+.resources {
+  position: relative;
+  letter-spacing: 0.04em;
+  line-height: 157%;
+  font-weight: 300;
+  display: inline-block;
+  width: 177px;
+  height: 39px;
+  flex-shrink: 0;
+  text-shadow: 0 5px 3px rgba(0, 0, 0, 0.25);
+}
+.back-arrow-icon {
+  position: relative;
+  width: 50px;
+  height: 46px;
+  object-fit: cover;
+  margin-left: -11px;
+}
+.resource1 {
+  position: absolute;
+  top: 382px;
+  left: 120px;
+  width: 208px;
+  height: 39px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.girl-studying-icon,
+.resource {
+  position: absolute;
+  left: 0;
+  width: 431px;
+}
+.girl-studying-icon {
+  top: 0;
+  height: 378px;
+  object-fit: cover;
+}
+.resource {
+  top: 61px;
+  height: 421px;
+}
+.learn-x-is,
+.square-box {
+  position: absolute;
+  top: 236px;
+  left: 863px;
+  width: 448.73px;
+  height: 579.34px;
+}
+.learn-x-is {
+  top: 703px;
+  left: 133px;
+  letter-spacing: 0.04em;
+  line-height: 157%;
+  font-weight: 300;
+  background: linear-gradient(180deg, #000, transparent 59.15%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: left;
+  display: inline-block;
+  width: 473px;
+  height: 252px;
+}
+.icons-child {
+  position: absolute;
+  top: 6.34px;
+  left: 0;
+  background-color: var(--color-whitesmoke-100);
+  box-shadow: 0 8px 8px rgba(0, 0, 0, 0.25);
+  width: 234px;
+  height: 196.66px;
+}
+.chatbot-and-conversational-ai {
+  position: absolute;
+  top: -21px;
+  left: -17px;
+  width: 281px;
+  height: 260.28px;
+  object-fit: cover;
+}
+.icons,
+.x {
+  position: absolute;
+}
+.icons {
+  top: 252px;
+  left: 251px;
+  width: 234px;
+  height: 203px;
+}
+.x {
+  top: 223px;
+  line-height: 100%;
+  text-transform: uppercase;
+  font-weight: 900;
+  background: linear-gradient(180deg, #9e59df, rgba(135, 105, 255, 0));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  width: 224px;
+  height: 255px;
+}
+.l,
+.x {
+  left: 0;
+}
+.a,
+.e,
+.l,
+.n,
+.r {
+  position: absolute;
+  top: 0;
+  letter-spacing: 0.04em;
+  line-height: 157%;
+  display: inline-block;
+  width: 69px;
+  height: 149px;
+}
+.e {
+  left: 64px;
+  color: var(--color-red);
+}
+.a,
+.n,
+.r {
+  left: 139px;
+}
+.n,
+.r {
+  left: 217px;
+}
+.n {
+  top: 1px;
+  left: 300px;
+  line-height: 155.5%;
+}
+.learn,
+.welcome-to {
+  position: absolute;
+  top: 62px;
+  left: 0;
+  width: 369px;
+  height: 150px;
+  font-size: var(--font-size-109xl);
+  font-family: var(--font-marcellus-sc);
+}
+.welcome-to {
+  top: 0;
+  font-size: var(--font-size-45xl);
+  letter-spacing: 0.04em;
+  line-height: 100px;
+  font-family: var(--font-poppins);
+  color: var(--color-darkblue);
+  display: inline-block;
+  width: 423px;
+  height: 81px;
+}
+.welcome-to-x {
+  position: absolute;
+  top: 174px;
+  left: 130px;
+  width: 485px;
+  height: 478px;
+  font-size: var(--font-size-251xl);
+  font-family: var(--font-montserrat);
+}
+.learn1,
+.x1 {
+  position: relative;
+  text-transform: uppercase;
+  font-weight: 800;
+}
+.learn1 {
+  letter-spacing: 0.04em;
+  line-height: 157%;
+}
+.x1 {
+  background: linear-gradient(180deg, #9e59df, rgba(135, 105, 255, 0));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  width: 44px;
+  height: 52px;
+  flex-shrink: 0;
+}
+.logo {
+  width: 172px;
+  height: 57px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 5px;
+  font-size: var(--font-size-17xl);
+  color: var(--color-gray-200);
+}
+.about,
+.contact,
+.course,
+.home,
+.pyq {
+  position: relative;
+  letter-spacing: 0.08em;
+  line-height: 220%;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 74px;
+  height: 53px;
+  flex-shrink: 0;
+}
+.about,
+.contact,
+.course,
+.pyq {
+  width: 104px;
+}
+.about,
+.contact,
+.pyq {
+  width: 58px;
+}
+.about,
+.contact {
+  width: 126px;
+}
+.about {
+  width: 87px;
+}
+.navigation {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 1px 0 0;
+}
+.navigation-bar {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  border-radius: var(--br-sm);
+  background-color: var(--color-thistle);
+  box-shadow: 0 10px 34px rgba(0, 0, 0, 0.1);
+  width: 1440px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-end;
+  padding: var(--padding-8xs) 115.6746826171875px;
+  box-sizing: border-box;
+}
+.more-info {
+  position: relative;
+  letter-spacing: 0.04em;
+  line-height: 157%;
+  font-weight: 300;
+  display: inline-block;
+  width: 130px;
+  height: 36px;
+  flex-shrink: 0;
+}
+.right-arrow-icon {
+  position: relative;
+  width: 22px;
+  height: 29px;
+  object-fit: cover;
+}
+.know-more {
+  position: absolute;
+  top: 857px;
+  left: 125px;
+  width: 156px;
+  height: 36px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 4px;
+}
+.student-studying-math {
+  position: absolute;
+  top: 1650px;
+  left: 2773px;
+  width: 474px;
+  height: 332px;
+  object-fit: cover;
+}
+.home-1 {
+  position: relative;
+  background-color: var(--color-gray-100);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

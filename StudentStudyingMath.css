@@ -1,0 +1,9 @@
+.student-studying-math1 {
+  position: relative;
+  width: 100%;
+  height: 332px;
+  background-image: url(./public/student-studying-math1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
